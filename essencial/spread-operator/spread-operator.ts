@@ -1,13 +1,20 @@
 export class Bimestre {
-    constructor() {
+    constructor(public nota1: number, public nota2: number, public nota3: number, public nota4: number) {
     }
 
-    public soma(nota1: number, nota2: number, nota3: number, nota4: number): number {
+    public static soma(nota1: number, nota2: number, nota3: number, nota4: number): number {
         return nota1 + nota2 + nota3 + nota4;
     }
 }
 
-let notas = [ 7, 10, 9, 8 ];
+let notasBimestre1 = [ 7, 10, 9, 8 ];
 
-let bimestre = new Bimestre();
-console.log(bimestre.soma(...notas));
+let bimestre = new Bimestre(...notasBimestre1);
+
+console.log('1º nota: ' + bimestre.nota1);
+console.log('Soma das notasDoBimestre1: ' + Bimestre.soma(...notasBimestre1));
+
+let notasBimestre2 = [ 6, 8, 7, 9 ];
+
+let notasAnual = { ...notasBimestre1, ...notasBimestre2 };
+console.log(notasAnual);
