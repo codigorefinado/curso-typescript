@@ -1,4 +1,4 @@
-export class Bimestre {
+class Bimestre {
     constructor(public nota1: number, public nota2: number, public nota3: number, public nota4: number) {
     }
 
@@ -13,8 +13,3 @@ let bimestre = new Bimestre(...notasBimestre1);
 
 console.log('1º nota: ' + bimestre.nota1);
 console.log('Soma das notasDoBimestre1: ' + Bimestre.soma(...notasBimestre1));
-
-let notasBimestre2 = [ 6, 8, 7, 9 ];
-
-let notasAnual = { ...notasBimestre1, ...notasBimestre2 };
-console.log(notasAnual);
