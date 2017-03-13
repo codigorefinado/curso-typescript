@@ -11,6 +11,12 @@ var Bimestre = (function () {
         enumerable: true,
         configurable: true
     });
+    Bimestre.prototype.getNota1 = function () {
+        return this._nota1;
+    };
+    Bimestre.prototype.setNota = function (nota1) {
+        this._nota1 = nota1;
+    };
     return Bimestre;
 }());
 var bimestre = new Bimestre();

@@ -8,6 +8,14 @@ class Bimestre {
     set nota1(nota1: number) {
         this._nota1 = nota1;
     }
+
+    getNota1(){
+        return this._nota1;
+    }
+
+    setNota(nota1:  number) {
+        this._nota1 = nota1;
+    }
 }
 
 
