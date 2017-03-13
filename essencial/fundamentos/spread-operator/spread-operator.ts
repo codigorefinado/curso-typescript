@@ -12,4 +12,4 @@ let notasBimestre3 = [ 7, 7, 9, 9 ];
 let notasBimestre4 = [ 9, 10, 7, 9 ]
 
 let notasAnual = { ...notasBimestre1, ...notasBimestre2, ...notasBimestre3, ...notasBimestre4 };
-console.log(notasAnual);
+console.log(" Conteúdo do notasAnual " + JSON.stringify(notasAnual));
