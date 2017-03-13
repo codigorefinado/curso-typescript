@@ -2,7 +2,7 @@ var Minhoca = (function () {
     function Minhoca() {
     }
     Minhoca.prototype.mover = function (distancia) {
-        console.log('Minhoca rasteja ' + distancia.distancia());
+        console.log('Javali rasteja ' + distancia.distancia());
     };
     return Minhoca;
 }());

@@ -4,7 +4,7 @@ interface Animal {
 
 class Minhoca implements Animal {
     mover(distancia: UnidadeMedida) {
-        console.log('Minhoca rasteja ' + distancia.distancia());
+        console.log('Javali rasteja ' + distancia.distancia());
     }
 }
 
