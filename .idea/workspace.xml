@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7e625b33-e5d4-49d7-80f0-045934ff97d1" name="Default" comment="" />
+    <list default="true" id="7e625b33-e5d4-49d7-80f0-045934ff97d1" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/essencial/fundamentos/array-destructing/array-destructing-ignores.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/essencial/fundamentos/array-destructing/array-destructing-rest.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/essencial/fundamentos/array-destructing/array-destructing.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/essencial/fundamentos/generics/exemplo-com-interface/dao.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/essencial/fundamentos/generics/exemplo-com-interface/main.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/essencial/fundamentos/generics/exemplo-com-interface/produto-http-rest.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/essencial/fundamentos/generics/exemplo-com-interface/produto-xml.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/essencial/fundamentos/generics/exemplo-com-interface/produto.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/essencial/fundamentos/generics/exemplo-simples/casa.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/essencial/fundamentos/object-destructing/bimestre.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/essencial/fundamentos/object-destructing/object-destructing.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/essencial/fundamentos/template-string/template-string.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/essencial/fundamentos/classes/bimestre.js" afterPath="$PROJECT_DIR$/essencial/fundamentos/classes/bimestre.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/essencial/fundamentos/classes/bimestre.ts" afterPath="$PROJECT_DIR$/essencial/fundamentos/classes/bimestre.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/essencial/fundamentos/inteface/animal.js" afterPath="$PROJECT_DIR$/essencial/fundamentos/inteface/animal.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/essencial/fundamentos/inteface/animal.ts" afterPath="$PROJECT_DIR$/essencial/fundamentos/inteface/animal.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/essencial/fundamentos/inteface/animal2.js" afterPath="$PROJECT_DIR$/essencial/fundamentos/inteface/animal2.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/essencial/fundamentos/inteface/animal2.ts" afterPath="$PROJECT_DIR$/essencial/fundamentos/inteface/animal2.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/essencial/fundamentos/parametro-formato-json/ponto.ts" afterPath="$PROJECT_DIR$/essencial/fundamentos/parametro-formato-json/ponto.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/essencial/fundamentos/rest/rest.js" afterPath="$PROJECT_DIR$/essencial/fundamentos/rest/rest.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/essencial/fundamentos/rest/rest.ts" afterPath="$PROJECT_DIR$/essencial/fundamentos/rest/rest.ts" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -17,7 +41,40 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="main.ts" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/essencial/fundamentos/generics/exemplo-com-interface/main.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="5" column="17" lean-forward="true" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+              <folding>
+                <element signature="e#0#36#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="produto-xml.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/essencial/fundamentos/generics/exemplo-com-interface/produto-xml.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="produto.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/essencial/fundamentos/generics/exemplo-com-interface/produto.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -42,14 +99,38 @@
         <option value="$PROJECT_DIR$/essencial/paradigma-funcional/paradigma-funcional.ts" />
         <option value="$PROJECT_DIR$/essencial/optional-parameter/optional-parameter.ts" />
         <option value="$PROJECT_DIR$/essencial/spread-operator/spread-operator.ts" />
-        <option value="$PROJECT_DIR$/essencial/fundamentos/classes/bimestre.ts" />
         <option value="$PROJECT_DIR$/essencial/fundamentos/getters/bimestre.ts" />
         <option value="$PROJECT_DIR$/essencial/fundamentos/static/bimestre.ts" />
-        <option value="$PROJECT_DIR$/essencial/fundamentos/getters_e_setters/bimestre.ts" />
         <option value="$PROJECT_DIR$/essencial/fundamentos/enum/genero.ts" />
         <option value="$PROJECT_DIR$/essencial/fundamentos/inteface/IPessoa.ts" />
+        <option value="$PROJECT_DIR$/essencial/fundamentos/paradigma-funcional/paradigma-funcional.ts" />
+        <option value="$PROJECT_DIR$/essencial/fundamentos/default-parameter/default-parameter.ts" />
+        <option value="$PROJECT_DIR$/essencial/fundamentos/optional-parameter/optional-parameter.ts" />
+        <option value="$PROJECT_DIR$/essencial/fundamentos/spread-operator/spread-operator.ts" />
+        <option value="$PROJECT_DIR$/essencial/fundamentos/destructuring/destructuring.ts" />
+        <option value="$PROJECT_DIR$/essencial/fundamentos/variaveis/variaveis.ts" />
+        <option value="$PROJECT_DIR$/essencial/fundamentos/getters_e_setters/bimestre.ts" />
+        <option value="$PROJECT_DIR$/essencial/fundamentos/parametro-formato-json/animal2.ts" />
+        <option value="$PROJECT_DIR$/essencial/fundamentos/classes/bimestre.ts" />
+        <option value="$PROJECT_DIR$/essencial/fundamentos/rest/rest.ts" />
         <option value="$PROJECT_DIR$/essencial/fundamentos/inteface/animal.ts" />
         <option value="$PROJECT_DIR$/essencial/fundamentos/inteface/animal2.ts" />
+        <option value="$PROJECT_DIR$/essencial/fundamentos/object-destructing/object-destructing.ts" />
+        <option value="$PROJECT_DIR$/essencial/fundamentos/object-destructing/bimestre.ts" />
+        <option value="$PROJECT_DIR$/essencial/fundamentos/array-destructing/array-destructiong.ts" />
+        <option value="$PROJECT_DIR$/essencial/fundamentos/array-destructing/array-destructing-ignores.ts" />
+        <option value="$PROJECT_DIR$/essencial/fundamentos/template-string/template-string.ts" />
+        <option value="$PROJECT_DIR$/essencial/fundamentos/array-destructing/array-destructing.ts" />
+        <option value="$PROJECT_DIR$/essencial/fundamentos/array-destructing/array-destructing-rest.ts" />
+        <option value="$PROJECT_DIR$/essencial/fundamentos/parametro-formato-json/ponto.ts" />
+        <option value="$PROJECT_DIR$/essencial/fundamentos/parametro-formato-json/animal.ts" />
+        <option value="$PROJECT_DIR$/essencial/fundamentos/generics/exemplo-simples/casa.ts" />
+        <option value="$PROJECT_DIR$/essencial/fundamentos/generics/exemplo-com-interface/casa.ts" />
+        <option value="$PROJECT_DIR$/essencial/fundamentos/generics/exemplo-com-interface/produto-xml.ts" />
+        <option value="$PROJECT_DIR$/essencial/fundamentos/generics/exemplo-com-interface/produto.ts" />
+        <option value="$PROJECT_DIR$/essencial/fundamentos/generics/exemplo-com-interface/dao.ts" />
+        <option value="$PROJECT_DIR$/essencial/fundamentos/generics/exemplo-com-interface/produto-http-rest.ts" />
+        <option value="$PROJECT_DIR$/essencial/fundamentos/generics/exemplo-com-interface/main.ts" />
       </list>
     </option>
   </component>
@@ -60,10 +141,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="784" />
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1924" />
+    <option name="height" value="1084" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -105,6 +186,80 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="curso-typescript" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="curso-typescript" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="essencial" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fundamentos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="template-string" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="template-string.ts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NestingTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="curso-typescript" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="curso-typescript" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="essencial" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fundamentos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="generics" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="curso-typescript" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="curso-typescript" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="essencial" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fundamentos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="generics" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="exemplo-com-interface" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -115,25 +270,49 @@
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
     <property name="js.eslint.eslintPackage" value="" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.linters.tslint" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\codigorefinado\curso-typescript\essencial\fundamentos\inteface" />
-      <recent name="C:\codigorefinado\curso-typescript\essencial\fundamentos\setters" />
-      <recent name="C:\codigorefinado\curso-typescript\essencial\fundamentos\getters" />
-      <recent name="C:\codigorefinado\curso-typescript\essencial\fundamentos\static" />
-      <recent name="C:\codigorefinado\curso-typescript\essencial\classes" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\codigorefinado\curso-typescript\essencial\fundamentos" />
       <recent name="C:\codigorefinado\curso-typescript\essencial" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\codigorefinado\source\curso-typescript\essencial\fundamentos\generics\exemplo-com-interface" />
+      <recent name="D:\codigorefinado\curso-typescript\essencial\fundamentos\object-destructing" />
+      <recent name="D:\codigorefinado\curso-typescript\essencial\fundamentos\parametro-formato-json" />
+      <recent name="D:\codigorefinado\curso-typescript\essencial\fundamentos\inteface" />
+      <recent name="C:\codigorefinado\curso-typescript\essencial\fundamentos\inteface" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
   </component>
   <component name="RunManager">
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <method />
     </configuration>
     <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
       <method />
     </configuration>
     <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
@@ -203,25 +382,30 @@
       <workItem from="1489256328588" duration="89000" />
       <workItem from="1489342575549" duration="1422000" />
       <workItem from="1489344088547" duration="9480000" />
+      <workItem from="1489360877066" duration="6619000" />
+      <workItem from="1489443527628" duration="8124000" />
+      <workItem from="1489631395961" duration="454000" />
+      <workItem from="1489714523450" duration="1377000" />
+      <workItem from="1489717140682" duration="999000" />
+      <workItem from="1490229935690" duration="1976000" />
+      <workItem from="1490231946709" duration="7000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10991000" />
+    <option name="totallyTimeSpent" value="30547000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
-    <editor active="false" />
+    <frame x="-9" y="-9" width="1924" height="1084" extended-state="0" />
     <layout>
       <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19622245" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32937685" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.43620178" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2745512" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -229,6 +413,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32882413" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -239,6 +424,22 @@
         <option value="$PROJECT_DIR$/essencial/fundamentos/static/bimestre.js" />
         <option value="$PROJECT_DIR$/essencial/fundamentos/inteface/animal.js" />
         <option value="$PROJECT_DIR$/essencial/fundamentos/inteface/animal2.js" />
+        <option value="$PROJECT_DIR$/essencial/fundamentos/paradigma-funcional/paradigma-funcional.js" />
+        <option value="$PROJECT_DIR$/essencial/fundamentos/variaveis/variaveis.js" />
+        <option value="$PROJECT_DIR$/essencial/fundamentos/rest/rest.js" />
+        <option value="$PROJECT_DIR$/essencial/fundamentos/parametro-formato-json/ponto.js" />
+        <option value="$PROJECT_DIR$/essencial/fundamentos/object-destructing/object-destructing.js" />
+        <option value="$PROJECT_DIR$/essencial/fundamentos/object-destructing/bimestre.js" />
+        <option value="$PROJECT_DIR$/essencial/fundamentos/array-destructing/array-destructing.js" />
+        <option value="$PROJECT_DIR$/essencial/fundamentos/array-destructing/array-destructing-rest.js" />
+        <option value="$PROJECT_DIR$/essencial/fundamentos/array-destructing/array-destructing-ignores.js" />
+        <option value="$PROJECT_DIR$/essencial/fundamentos/template-string/template-string.js" />
+        <option value="$PROJECT_DIR$/essencial/fundamentos/generics/exemplo-simples/casa.js" />
+        <option value="$PROJECT_DIR$/essencial/fundamentos/generics/exemplo-com-interface/dao.js" />
+        <option value="$PROJECT_DIR$/essencial/fundamentos/generics/exemplo-com-interface/produto.js" />
+        <option value="$PROJECT_DIR$/essencial/fundamentos/generics/exemplo-com-interface/produto-xml.js" />
+        <option value="$PROJECT_DIR$/essencial/fundamentos/generics/exemplo-com-interface/produto-http-rest.js" />
+        <option value="$PROJECT_DIR$/essencial/fundamentos/generics/exemplo-com-interface/main.js" />
       </list>
     </option>
   </component>
@@ -250,11 +451,53 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/essencial/fundamentos/generics/exemplo-com-interface/produto-xml.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/essencial/fundamentos/parametro-formato-json/animal.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/essencial/fundamentos/parametro-formato-json/ponto.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="41" lean-forward="false" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/essencial/fundamentos/template-string/template-string.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/essencial/fundamentos/template-string/template-string.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/essencial/fundamentos/template-string/template-string.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="18" lean-forward="false" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/essencial/fundamentos/spread-operator/spread-operator.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -262,117 +505,17 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/essencial/01/ola-mundo.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/essencial/01/ola-mundo.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/essencial/rest-operator/rest-operator.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="9" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/essencial/fundamentos/spread-operator/spread-operator.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/essencial/rest-operator/rest-operator.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/typescriptCompiler/external/lib.d.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="36" column="42" lean-forward="false" selection-start-line="36" selection-start-column="37" selection-end-line="36" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/essencial/fundamentos/optional-parameter/optional-parameter.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/essencial/fundamentos/default-parameter/default-parameter.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="71" lean-forward="false" selection-start-line="0" selection-start-column="71" selection-end-line="0" selection-end-column="71" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/essencial/fundamentos/paradigma-funcional/paradigma-funcional.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="18" lean-forward="false" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/essencial/fundamentos/spread-operator/spread-operator.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="23" lean-forward="false" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/essencial/fundamentos/optional-parameter/optional-parameter.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="29" lean-forward="false" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/essencial/fundamentos/destructuring/destructuring.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="30" lean-forward="false" selection-start-line="0" selection-start-column="30" selection-end-line="0" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/essencial/fundamentos/classes/bimestre.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/essencial/01/ola-mundo.ts" />
+    <entry file="file://$PROJECT_DIR$/essencial/01/ola-mundo.ts" />
+    <entry file="file://$PROJECT_DIR$/essencial/rest-operator/rest-operator.ts" />
+    <entry file="file://$PROJECT_DIR$/essencial/rest-operator/rest-operator.js" />
     <entry file="file://$PROJECT_DIR$/essencial/fundamentos/static/bimestre.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -380,23 +523,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="4" lean-forward="false" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/essencial/fundamentos/setters/bimestre.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/essencial/fundamentos/setters/bimestre.ts" />
     <entry file="file://$PROJECT_DIR$/essencial/fundamentos/enum/fator.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -404,39 +538,219 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="29" lean-forward="true" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/essencial/fundamentos/inteface/IPessoa.ts" />
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/typescriptCompiler/external/lib.d.ts" />
+    <entry file="file://$PROJECT_DIR$/essencial/fundamentos/paradigma-funcional/paradigma-funcional.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/essencial/fundamentos/paradigma-funcional/paradigma-funcional.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="26" lean-forward="false" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/essencial/fundamentos/default-parameter/default-parameter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/essencial/fundamentos/optional-parameter/optional-parameter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/essencial/fundamentos/optional-parameter/optional-parameter.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/essencial/fundamentos/spread-operator/spread-operator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/essencial/fundamentos/destructuring/destructuring.js" />
+    <entry file="file://$PROJECT_DIR$/essencial/fundamentos/destructuring/destructuring.ts" />
+    <entry file="file://$PROJECT_DIR$/essencial/fundamentos/variaveis/variaveis.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/essencial/fundamentos/parametro-formato-json/animal.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="18" column="16" lean-forward="false" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/essencial/fundamentos/getters_e_setters/bimestre.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="5" lean-forward="false" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-          <folding />
+        <state relative-caret-position="375">
+          <caret line="15" column="29" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/essencial/fundamentos/inteface/IPessoa.ts">
+    <entry file="file://$PROJECT_DIR$/essencial/fundamentos/spread-operator/spread-operator.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="150">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/essencial/fundamentos/rest/rest.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/essencial/fundamentos/inteface/animal.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-85">
-          <caret line="7" column="36" lean-forward="false" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
-          <folding />
+        <state relative-caret-position="400">
+          <caret line="16" column="34" lean-forward="true" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/essencial/fundamentos/inteface/animal2.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        <state relative-caret-position="300">
+          <caret line="12" column="29" lean-forward="false" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/essencial/fundamentos/object-destructing/object-destructing.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="29" lean-forward="false" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/essencial/fundamentos/object-destructing/bimestre.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/essencial/fundamentos/array-destructing/array-destructing.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="17" lean-forward="true" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/essencial/fundamentos/array-destructing/array-destructing-ignores.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="20" lean-forward="false" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/essencial/fundamentos/array-destructing/array-destructing-rest.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="24" lean-forward="true" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/essencial/fundamentos/default-parameter/default-parameter.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/essencial/fundamentos/parametro-formato-json/ponto.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="41" lean-forward="false" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/essencial/fundamentos/generics/exemplo-com-interface/casa.ts" />
+    <entry file="file://$PROJECT_DIR$/essencial/fundamentos/template-string/template-string.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="31" lean-forward="true" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/essencial/fundamentos/classes/bimestre.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="3" lean-forward="false" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/essencial/fundamentos/generics/exemplo-com-interface/produto.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/essencial/fundamentos/generics/exemplo-simples/casa.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="9" lean-forward="false" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/essencial/fundamentos/generics/exemplo-com-interface/produto-http-rest.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="31" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/essencial/fundamentos/generics/exemplo-com-interface/dao.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/essencial/fundamentos/parametro-formato-json/animal.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/essencial/fundamentos/generics/exemplo-com-interface/produto-xml.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/essencial/fundamentos/generics/exemplo-com-interface/main.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="17" lean-forward="true" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

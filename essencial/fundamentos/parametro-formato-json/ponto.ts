@@ -2,7 +2,7 @@ class Ponto {
   private _x: number = 0;
   private _y: number = 0;
 
-  constructor(p: { x: number;y: number }) {
+  constructor(p: { x: number; y: number }) {
     this._x = p.x;
     this._y = p.y;
   }

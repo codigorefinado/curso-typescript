@@ -3,14 +3,14 @@ interface Animal {
 }
 
 class Minhoca implements Animal {
-    mover(distancia: UnidadeMedida) {
-        console.log('Javali rasteja ' + distancia.distancia());
+    mover(unidade: UnidadeMedida) {
+        console.log('Minhoca rasteja ' + unidade.distancia());
     }
 }
 
 class Cavalo implements Animal {
-    mover(distancia: Metros) {
-        console.log('Cavalo trotou ' + distancia.distancia());
+    mover(unidade: Metros) {
+        console.log('Cavalo trotou ' + unidade.distancia());
     }
 }
 
@@ -43,8 +43,8 @@ cavalo.mover(new Metros(4));
 // cavalo.mover(new Milimetros(4));
 
 let animal: Animal = new Cavalo();
-animal.mover(new Metros(4));
+animal.mover(new Metros(3));
 
 animal = new Minhoca();
-animal.mover(new Milimetros(4));
-animal.mover(new Metros(4));
+animal.mover(new Milimetros(7));
+animal.mover(new Metros(8));
